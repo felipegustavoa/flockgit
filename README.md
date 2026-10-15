@@ -13,9 +13,7 @@ Check status, switch branches, and update projects from one terminal.
 
 ## Status
 
-Versao atual: `0.9.0-beta.1`
-
-Esta e uma beta publica.
+Versao atual: `1.0.0.0`
 
 Suporte atual:
 - macOS
@@ -222,9 +220,9 @@ bash tests/test_install.sh
 
 Todos os testes rodam em diretorios temporarios e nao usam seus repositorios reais.
 
-## Beta
+## Versão atual
 
-Esta beta ja cobre o fluxo principal da ferramenta, mas ainda esta aberta a refinamentos em:
+Esta versão já cobre o fluxo principal da ferramenta, mas está aberta a refinamentos em:
 
 - UX do terminal
 - comportamento de autocomplete em ambientes diferentes
